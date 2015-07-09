@@ -1,3 +1,3 @@
 # myfirst
 My first repository
-This is my initial comment :pizza
+This is my initial comment
